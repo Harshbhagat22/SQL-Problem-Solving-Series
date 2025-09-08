@@ -4,7 +4,7 @@
 ## OUTPUT :
 <img width="190" height="354" alt="image" src="https://github.com/user-attachments/assets/0ede08da-5214-425d-9ecb-7b4dda6edb02" />
 
-## 2. SQL 
+## 2. SQL QUERY
 <img width="296" height="34" alt="image" src="https://github.com/user-attachments/assets/1fa0d73f-b42e-4ee2-b239-cce19d9bc61b" />
 
 ## OUTPUT :
