@@ -1,6 +1,8 @@
 ## QUERY :
-<img width="463" height="119" alt="image" src="https://github.com/user-attachments/assets/99e81f6e-902f-4b20-b9ef-afd7bda6ca94" />
+<img width="439" height="195" alt="image" src="https://github.com/user-attachments/assets/7f717467-1d20-46b0-907f-147200537c97" />
+
 
 ## OUTPUT :
-<img width="455" height="273" alt="image" src="https://github.com/user-attachments/assets/d0985086-1965-40c1-b0a7-8df8315ab44f" />
+<img width="432" height="261" alt="image" src="https://github.com/user-attachments/assets/75d4b564-4464-4041-9736-ecdf9766aea0" />
+
 
