@@ -1,6 +1,8 @@
 ## SQL QUERY :
-<img width="642" height="54" alt="image" src="https://github.com/user-attachments/assets/3db61401-1885-4722-a94c-4b52704f2bb5" />
+<img width="645" height="52" alt="image" src="https://github.com/user-attachments/assets/7af0da12-4aa9-41af-997f-87afc241eea0" />
+
 
 ## OUTPUT :
-<img width="456" height="473" alt="image" src="https://github.com/user-attachments/assets/9c339188-716e-45e0-bdfb-657ee2e91c52" />
+<img width="356" height="439" alt="image" src="https://github.com/user-attachments/assets/9d23bdfa-92cc-487b-94f9-714d5b1126bc" />
+
 
