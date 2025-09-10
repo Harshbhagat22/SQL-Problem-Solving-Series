@@ -1,0 +1,21 @@
+CREATE TABLE Projects (
+    ProjectID INT PRIMARY KEY,
+    ProjectName VARCHAR(50),
+    StartDate DATE,
+    EndDate DATE,
+    EmpID INT,
+    Role VARCHAR(30),
+    FOREIGN KEY (EmpID) REFERENCES Employees(EmpID)
+);
+
+INSERT INTO Projects (ProjectID, ProjectName, StartDate, EndDate, EmpID, Role) VALUES
+(101, 'Payroll System', '2021-01-01', '2021-12-31', 1, 'Coordinator'),
+(102, 'Cloud Migration', '2020-05-15', '2022-02-28', 2, 'Developer'),
+(103, 'Budget Planning', '2021-07-01', '2022-06-30', 3, 'Analyst'),
+(104, 'Cyber Security', '2019-09-01', '2021-08-31', 4, 'Lead Developer'),
+(105, 'ERP Implementation', '2018-03-01', '2020-12-31', 5, 'Project Manager'),
+(106, 'Audit System', '2019-04-15', '2021-03-30', 6, 'Consultant'),
+(107, 'Recruitment Portal', '2022-09-01', NULL, 7, 'HR Executive'),
+(108, 'Digital Marketing', '2021-01-10', NULL, 8, 'Marketing Specialist'),
+(109, 'SEO Optimization', '2020-12-01', '2021-12-31', 9, 'SEO Analyst'),
+(110, 'Cloud Migration', '2020-05-15', '2022-02-28', 10, 'Tester');
